@@ -1,0 +1,22 @@
+{
+  "name": "TestPod1",
+  "version": "0.1.0",
+  "summary": "A short description of TestPod1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ashutosh.sultania96@gmail.com/TestPod1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ashutosh.sultania96@gmail.com": "ashutosh.sultania@shotformats.com"
+  },
+  "source": {
+    "git": "https://github.com/ashutosh.sultania96@gmail.com/TestPod1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestPod1/Classes/**/*"
+}
